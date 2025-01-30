@@ -27,8 +27,7 @@ A powerful and user-friendly Windows desktop application designed to streamline 
 
 - Windows operating system
 - .NET 8.0 Runtime
-- Microsoft 365 administrator account with appropriate permissions
-- Azure AD application registration with necessary Microsoft Graph API permissions
+- Microsoft 365 administrator account with appropriate permissions (User Administrator Role will do)
 
 ## Installation
 
