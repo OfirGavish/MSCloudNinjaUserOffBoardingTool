@@ -31,9 +31,14 @@ A powerful and user-friendly Windows desktop application designed to streamline 
 
 ## Installation
 
-1. Download the latest release from the GitHub releases page
-2. Extract the ZIP file to your preferred location
-3. Run the `User OffBoarding Tool by MSCloudNinja.exe` executable
+To get started with the MS Cloud Ninja User Offboarding Tool:
+
+1. Download installer from:
+   https://storage.mscloudninja.com/MSCNUserOffBoardingTool_Installer.exe
+2. Execute the installer and follow the guided installation process
+3. Launch the application from your Start Menu or Desktop shortcut
+
+Note: The tool requires .NET 8.0 Runtime and a Windows operating system. Administrator privileges are recommended for installation.
 
 ## Usage
 
